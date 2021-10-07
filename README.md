@@ -1,2 +1,2 @@
 # nonvenomous
-Repository for my Python projects
+Repository for my Python/Jupyter projects
